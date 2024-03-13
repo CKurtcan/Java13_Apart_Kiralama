@@ -1,0 +1,6 @@
+
+O
+java:S3958E"2Refactor the code so this stream pipeline is used.(‰‚šó8É™¼ã1
+	java:S116"dRename this field "HotelPropertiesRepository" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘ƒÍo8½…²»ã1
+e
+java:S1128"HRemove this unused import 'java.util.concurrent.atomic.AtomicReference'.(×‡µó8Ğ™¼ã1
